@@ -1,0 +1,60 @@
+
+/*IRANSans Font*/
+@font-face {font-family: 'IRANSansRegular';
+    src: url(../fonts/iransans/IRANSans.ttf) format('truetype'); /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    font-weight: auto;
+}
+@font-face {font-family: 'IRANSans_UltraLight';
+    src: url(../fonts/iransans/IRANSans_UltraLight.ttf) format('truetype'); /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    font-weight: auto;
+}
+@font-face {font-family: 'IRANSans_Light';
+    src: url(../fonts/iransans/IRANSans_Light.ttf) format('truetype'); /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    font-weight: auto;
+}
+@font-face {font-family: 'IRANSans_Medium';
+    src: url(../fonts/iransans/IRANSans_Medium.ttf) format('truetype'); /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    font-weight: auto;
+}
+@font-face {font-family: 'IRANSans_Bold';
+    src: url(../fonts/iransans/IRANSans_Bold.ttf) format('truetype'); /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    font-weight: auto;
+}
+
+
+/*IRAN Yekan Font*/
+@font-face {font-family: 'IRANYekanRegular';
+    src: url(../fonts/IRANYekan/IRANYekanRegular.ttf) format('truetype'); /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    font-weight: auto;
+}
+@font-face {font-family: 'IRANYekanThin';
+    src: url(../fonts/IRANYekan/IRANYekanThin.ttf) format('truetype'); /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    font-weight: auto;
+}
+@font-face {font-family: 'IRANYekanLight';
+    src: url(../fonts/IRANYekan/IRANYekanLight.ttf) format('truetype'); /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    font-weight: auto;
+}
+@font-face {font-family: 'IRANYekanMedium';
+    src: url(../fonts/IRANYekan/IRANYekanMedium.ttf) format('truetype'); /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    font-weight: auto;
+}
+@font-face {font-family: 'IRANYekanBold';
+    src: url(../fonts/IRANYekan/IRANYekanBold.ttf) format('truetype'); /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    font-weight: auto;
+}
+
+@font-face {font-family: 'IRANYekanExtraBold';
+    src: url(../fonts/IRANYekan/IRANYekanExtraBold.ttf) format('truetype'); /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    font-weight: auto;
+}
+@font-face {font-family: 'IRANYekanBlack';
+    src: url(../fonts/IRANYekan/IRANYekanBlack.ttf) format('truetype'); /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    font-weight: auto;
+}
+
+
+.datepicker-plot-area .datepicker-day-view .table-days td.disabled span {
+    background-image: repeating-linear-gradient(-45deg,transparent,transparent 8px,#eee 0,#eee 10px)!important;
+}
+
